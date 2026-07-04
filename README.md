@@ -38,7 +38,7 @@ The website is designed to work seamlessly across:
 - Mobile Phones
 - Tablets
 - Laptops
-- Desktop Monitors
+- Desktop Computers 
 - Large Displays
 
 ### Theme Support
@@ -177,7 +177,7 @@ Contains:
 
 ### Page Specific Styles
 
-Each page maintains its own stylesheet for easier maintenance and scalability.
+Each page maintains its own stylesheet for easier readability, maintenance and scalability.
 
 Example:
 
@@ -185,6 +185,7 @@ Example:
 index.css
 contact.css
 training-tracks.css
+sch.css
 ```
 
 ---
